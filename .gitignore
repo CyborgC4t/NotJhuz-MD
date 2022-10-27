@@ -1,0 +1,12 @@
+#| Folders |#
+
+.github
+node_modules
+tmp
+no-use
+pluginpilot
+
+#| Files |#
+
+package-lock.json
+database.json
