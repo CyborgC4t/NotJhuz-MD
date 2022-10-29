@@ -7,6 +7,16 @@
 ### `—◉ 🖍 LETRA DEL BOT 🖍`
 - PAGINA USADA PARA LA LETRA [Aqui](https://smiley.cool/es/weirdmaker.php)
 
+
+### ⚡ REPLIT - NotJhuz-MD
+[![Deploy](https://img.shields.io/badge/replit_gatabot-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/github/CyborgC4t/NotJhuz-MD)
+<a href="https://replit.com/github/CyborgC4t/NotJhuz-MD"> <img src="https://media0.giphy.com/media/lMwu8EJAnv9kmn51KQ/giphy.gif" height="29px"></a>
+> USE REPLIT PARA OBTENER EL ARCHIVO session.data.json
+------------------
+- [x] Resultado <details><summary>Importar Repositorio - NotJhuz-MD</summary><img src="https://i.imgur.com/GQyRnMf.jpg"></details>
+------------------
+
+
 ### `—◉ ✨ ACTIVAR EN HEROKU ✨`
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CyborgC4t/NotJhuz-MD)
 ```bash
